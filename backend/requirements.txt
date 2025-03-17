@@ -1,0 +1,9 @@
+fastapi
+pydantic
+uvicorn
+python-dotenv
+pymongo
+langchain_sambanova
+fitz
+python-docx
+shutil

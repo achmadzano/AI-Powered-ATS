@@ -1,0 +1,7 @@
+.venv
+__pycache__
+Achmad Fauzan CV.pdf
+test.ipynb
+frontend/.env
+backend/.env
+backend/uploads
